@@ -6,6 +6,7 @@ The project uses the GitHub GraphQL API
 
 - Node.js
 - Express.js
+- Nodemon
 - GitHub GraphQL API
 
 ## Acknowledgements

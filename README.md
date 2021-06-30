@@ -8,6 +8,7 @@ The project uses the GitHub GraphQL API
 - Express.js
 - Nodemon
 - GitHub GraphQL API
+- Tailwind CSS
 
 ## Acknowledgements
 
